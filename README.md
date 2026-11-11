@@ -11,9 +11,10 @@
 
 ### `$ cat ensino-e-comunidade.txt`
 
-- Videoaulas de C para colegas de Introdução à Programação (vetores, matrizes, ponteiros, structs e arquivos) e videoaulas de Prolog e Árvore AVL.
-- Tutor no programa de tutoria do curso, minicurso de UI/UX Design no PET-SI (FACOM Techweek) e curso de Lógica pelo DACOMP.
-- PET-SI, DACOMP e Atlética AAACOMP, cuidando de design e comunicação.
+- Videoaulas gravadas por iniciativa própria para colegas: Algoritmos 1 e 2, Arquitetura e Organização de Computadores, Lógica e Cálculo 1, 2 e 3. A mais vista, o [Aulão de Lógica (Revisão P1)](https://www.youtube.com/watch?v=rGGfuM94gao), passa de 8 mil visualizações.
+- PET-SI: tutor no programa de tutoria (Algoritmos 1, Arquitetura e Organização de Computadores e Lógica) e designer do grupo.
+- Palestras e minicurso de UI/UX Design na FACOM Techweek, a semana de tecnologia da computação da UFU.
+- Atlética AAACOMP: design e edição de vídeo.
 
 ### `$ echo $CONTATO`
 
